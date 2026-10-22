@@ -19,20 +19,6 @@ When I'm not coding, you'll probably find me cooking something new or planning m
 
 Currently working on my own game in the **s&box engine**. I'm learning as I go, experimenting with ideas, and trying to turn them into something playable.
 
-### What I'm learning
-
-- Getting better at C#
-- Learning the ins and outs of the s&box engine
-- Exploring game mechanics and gameplay programming
-- Improving through personal projects
-
-### A little about me
-
-- 🎮 Interested in game development
-- 🍳 Love cooking and trying new things
-- ✈️ Enjoy traveling and discovering new places
-- 💡 Always curious about how things work
-
 ### Find me here
 
 - [LinkedIn](https://cz.linkedin.com/)

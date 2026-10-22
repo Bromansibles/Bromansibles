@@ -1,12 +1,10 @@
-# Hi, I'm Bromansibles 👋
+# Hey, I'm Bromansibles 👋
 
-### Aspiring Game Developer
+I'm a student learning my way into the world of game development. Currently, I'm focusing on C# and experimenting with the s&box engine, with the goal of making my own games someday.
 
-I'm a student currently learning **C#** and exploring game development with the **s&box engine**. My goal is to become a game developer and create games of my own.
+When I'm not coding, you'll probably find me cooking something new or planning my next trip.
 
-Outside of programming, I enjoy cooking and traveling.
-
-## 🛠️ Technologies & Tools
+### Technologies and tools I use
 
 <p>
   <img src="https://img.shields.io/badge/C%23-Learning-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
@@ -17,20 +15,25 @@ Outside of programming, I enjoy cooking and traveling.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-## 🎮 Current Project
+### What I'm working on
 
-**My Own Game in s&box**
+Currently working on my own game in the **s&box engine**. I'm learning as I go, experimenting with ideas, and trying to turn them into something playable.
 
-I'm working on developing my own game using the s&box engine while learning C# and improving my game development skills.
+### What I'm learning
 
-## 🌱 Goals
+- Getting better at C#
+- Learning the ins and outs of the s&box engine
+- Exploring game mechanics and gameplay programming
+- Improving through personal projects
 
-- Improve my C# programming skills.
-- Learn more about game development and the s&box engine.
-- Build and publish my own games.
-- Grow as a developer through hands-on projects.
+### A little about me
 
-## 📫 Connect With Me
+- 🎮 Interested in game development
+- 🍳 Love cooking and trying new things
+- ✈️ Enjoy traveling and discovering new places
+- 💡 Always curious about how things work
+
+### Find me here
 
 - [LinkedIn](https://cz.linkedin.com/)
 
